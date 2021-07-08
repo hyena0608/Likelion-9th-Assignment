@@ -1,6 +1,5 @@
 # **Django - 9회차 Pagination, Social Login**
 
-## **세션때 사용할 코드**
 ```python
 {% if blogs.has_previous %}
 <a href="?page=1">First</a>
